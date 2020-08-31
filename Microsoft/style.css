@@ -1,0 +1,46 @@
+nav {
+    display: flex;
+    background: white;
+    height: 100px;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    background: white;
+    width: 20%;
+    }
+
+.middle {
+    background: white;
+    width: 50%;
+}
+
+.right {
+    background: white;
+    width: 30%;
+}
+
+img {
+    width: 100px;
+}
+
+.menu-item {
+    display: inline;
+}
+
+.small-menu-item {
+    display: inline;
+}
+
+.hero {
+    display: flex;
+}
+
+.quick-links-module-items {
+    display: inline;
+}
+
+.footer-menu-items {
+    display: inline;
+}
